@@ -164,3 +164,6 @@ def dacon_rmse(true, pred):
 
     > 위 과정을 여러 스텝 반복 + step별로 notion에 정리
     ```
+## 💡 저작권
+- base line 자체는 모두 DACON에 저작권이 있음.
+- 나머지는 MIT copyright을 따름.
