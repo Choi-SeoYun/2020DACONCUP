@@ -1,4 +1,5 @@
 # 2020 DACON CUP
+[English README](https://github.com/Choi-SeoYun/2020DACONCUP/blob/main/README_eng.md)
 
 https://dacon.io/competitions/official/235683/overview/
 
